@@ -1,0 +1,17 @@
+.card {
+    border: 3px solid #d1d5db;
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+    border-radius: 11px;
+    background-color: white;
+    
+}
+.selected{
+    border: 3px solid #3b82f6;
+}
+
+.card{
+    display: flex;
+    margin:5px;
+}

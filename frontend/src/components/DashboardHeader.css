@@ -1,0 +1,18 @@
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #ffffff;
+    padding: 24px;
+}
+
+.stats-container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.stat-card {
+    padding: 20px;
+}
